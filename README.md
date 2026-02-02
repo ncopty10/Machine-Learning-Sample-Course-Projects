@@ -1,4 +1,4 @@
-# Machine-Learning-Sample-Course-Projects
+# Machine Learning Sample Course Projects
 
 ## K‑Means Clustering Algorithm
 
